@@ -1,0 +1,20 @@
+C:\Users\lieu\Documents\Cấu trúc dữ liệu và giải thuật\WINFORM\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\lieu\Documents\Cấu trúc dữ liệu và giải thuật\WINFORM\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\lieu\Documents\Cấu trúc dữ liệu và giải thuật\WINFORM\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\lieu\Documents\Cấu trúc dữ liệu và giải thuật\WINFORM\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\lieu\Documents\Cấu trúc dữ liệu và giải thuật\WINFORM\Calculator\Calculator\obj\Debug\Calculator.MAINFORM.resources
+C:\Users\lieu\Documents\Cấu trúc dữ liệu và giải thuật\WINFORM\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\lieu\Documents\Cấu trúc dữ liệu và giải thuật\WINFORM\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\lieu\Documents\Cấu trúc dữ liệu và giải thuật\WINFORM\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\lieu\Documents\Cấu trúc dữ liệu và giải thuật\WINFORM\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\lieu\Documents\Cấu trúc dữ liệu và giải thuật\WINFORM\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\User\Downloads\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\User\Downloads\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\User\Downloads\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\User\Downloads\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Calculator\Calculator\obj\Debug\Calculator.MAINFORM.resources
+C:\Users\User\Downloads\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\User\Downloads\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\User\Downloads\Calculator\Calculator\obj\Debug\Calculator.pdb
